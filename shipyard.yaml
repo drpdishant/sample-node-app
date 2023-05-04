@@ -12,3 +12,6 @@ spec:
           properties:
             pass: automatic
             warning: automatic
+        - name: "deployment"
+          properties:
+            deploymentstrategy: "direct"
